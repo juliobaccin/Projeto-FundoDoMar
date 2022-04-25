@@ -63,7 +63,7 @@ button:hover{
     top: 50%;
     left: 8%;
     transform: translateY(-50%);
-    transition-duration: 9s;
+    transition-duration: 5s;
     z-index: 2;
 }
 
