@@ -3,7 +3,7 @@ Projeto - Website fundo animado
 </h1>
  
  <p align="center">
- Website em <strong>HTML</strong> e <strong>CSS</strong> usando um @keyframe de animação de bolhas no background e algumas transições de tamanho, cor e borda nos botões e icones do background e side-bar, desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Website em <strong>HTML</strong> e <strong>CSS</strong> usando um <strong>@keyframe</strong> de animação de bolhas no background e algumas transições de tamanho, cor e borda nos botões e icones do background e side-bar, desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
