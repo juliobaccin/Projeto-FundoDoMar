@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Website fundo animado
+Projeto - Website fundo do Mar
 </h1>
  
  <p align="center">
@@ -7,7 +7,7 @@ Projeto - Website fundo animado
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Website-animado-bolhas/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-FundoDoMar/">aqui</a>
 </p>
 
 <div align="center">
