@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Website fundo do Mar
+Projeto - Fundo do Mar
 </h1>
  
  <p align="center">
